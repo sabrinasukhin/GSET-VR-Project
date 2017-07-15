@@ -4972,6 +4972,18 @@ Prefab:
       propertyPath: m_LocalPosition.z
       value: 43
       objectReference: {fileID: 0}
+    - target: {fileID: 2300740, guid: 0a143b4dbfab07c40a9ca495eb278cfd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1e3775639cfa2af478bbf7abe9b9756e, type: 2}
+    - target: {fileID: 2300350, guid: 0a143b4dbfab07c40a9ca495eb278cfd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fb20594166ca9f7498d0587f0c1c8881, type: 2}
+    - target: {fileID: 2300688, guid: 0a143b4dbfab07c40a9ca495eb278cfd, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1e3775639cfa2af478bbf7abe9b9756e, type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 0a143b4dbfab07c40a9ca495eb278cfd, type: 3}
   m_IsPrefabParent: 0
