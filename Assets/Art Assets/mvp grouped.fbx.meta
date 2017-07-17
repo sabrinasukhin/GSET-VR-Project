@@ -34,6 +34,7 @@ ModelImporter:
     100052: Plane.003
     100054: Plane.004
     100056: Cube.002
+    100058: Plane
     400000: Camera
     400002: Icosphere.004
     400004: Icosphere.005
@@ -63,6 +64,7 @@ ModelImporter:
     400052: Plane.003
     400054: Plane.004
     400056: Cube.002
+    400058: Plane
     2300000: Icosphere.004
     2300002: Icosphere.005
     2300004: Icosphere.006
@@ -89,6 +91,7 @@ ModelImporter:
     2300046: Plane.003
     2300048: Plane.004
     2300050: Cube.002
+    2300052: Plane
     3300000: Icosphere.004
     3300002: Icosphere.005
     3300004: Icosphere.006
@@ -115,6 +118,7 @@ ModelImporter:
     3300046: Plane.003
     3300048: Plane.004
     3300050: Cube.002
+    3300052: Plane
     4300000: Icosphere.005
     4300002: Icosphere.004
     4300004: Icosphere.006
@@ -141,6 +145,7 @@ ModelImporter:
     4300046: Plane.003
     4300048: Plane.004
     4300050: Cube.002
+    4300052: Plane
   materials:
     importMaterials: 1
     materialName: 0
