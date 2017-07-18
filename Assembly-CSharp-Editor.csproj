@@ -76,6 +76,7 @@
      <None Include="Assets\LowPolyWaterv2\Shaders\LPWReflection.cginc" />
      <None Include="Assets\GoogleVR\Demos\Shaders\GVRDemo\GVRDemoAmbientOcclusion.shader" />
      <None Include="Assets\GoogleVR\Shaders\GvrUnlitTextureOverlay.shader" />
+     <None Include="Assets\LowPolyWaterv2\Shaders\LPWShoreBlend.cginc" />
      <None Include="Assets\Plugins\Android\proguard-gvr.txt" />
      <None Include="Assets\LowPolyWaterv2\Shaders\LowPolyWaterLite.shader" />
      <None Include="Assets\Plugins\Android\AndroidManifest-Daydream.xml" />
