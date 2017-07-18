@@ -56,7 +56,7 @@ Material:
     - _FoamScale: 20
     - _FoamSpeed: 0.3
     - _FoamSpread: 1
-    - _FresPower: 1.5
+    - _FresPower: 1.97
     - _HQFoam: 0
     - _Height: 0.5
     - _Height_: 0.5
@@ -94,5 +94,5 @@ Material:
     - _FresColor: {r: 0.305, g: 0.371, b: 0.395, a: 1}
     - _ShoreColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 1, g: 0.9572973, b: 0.5808823, a: 1}
-    - _Sun: {r: 0.3213938, g: 0.76604444, b: -0.5566705, a: 0}
+    - _Sun: {r: -0.0040306845, g: -0.9999919, b: 0.00000000850514, a: 0}
     - _SunColor: {r: 1, g: 1, b: 1, a: 1}
