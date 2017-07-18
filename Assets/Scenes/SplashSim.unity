@@ -226,11 +226,11 @@ Prefab:
     - target: {fileID: 2300002, guid: 729d7bc81a1c5a141932fa7aad17a664, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: eefc42519cee5d64d8c944049a161126, type: 2}
+      objectReference: {fileID: 2100000, guid: 6a9aa613f9795cf4990043d2ce86e25d, type: 2}
     - target: {fileID: 2300004, guid: 729d7bc81a1c5a141932fa7aad17a664, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: fccc2d1bd18a3f84e91e73af7fc9a1aa, type: 2}
+      objectReference: {fileID: 2100000, guid: 15f5776b68a0b8b4cbad92d0082cd643, type: 2}
     - target: {fileID: 400004, guid: 729d7bc81a1c5a141932fa7aad17a664, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.77
@@ -6131,6 +6131,7 @@ GameObject:
   - component: {fileID: 1499060390}
   - component: {fileID: 1499060389}
   - component: {fileID: 1499060388}
+  - component: {fileID: 1499060392}
   m_Layer: 5
   m_Name: Floor Canvas
   m_TagString: Untagged
@@ -6237,6 +6238,23 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0.01}
   m_SizeDelta: {x: 200, y: 320}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &1499060392
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1499060387}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 783fea32d72cf0a47832796b7dab8f0f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1 &1514387900
 GameObject:
   m_ObjectHideFlags: 0
