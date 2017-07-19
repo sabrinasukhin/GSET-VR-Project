@@ -64,8 +64,8 @@ Material:
     - _NormalOffset: 1
     - _Opacity: 0.4
     - _PointLights: 0
-    - _RHeight: 0.2
-    - _RHeight_: 0.2
+    - _RHeight: 0.4
+    - _RHeight_: 0.4
     - _RSpeed: 0.05
     - _RSpeed_: 0.05
     - _Reflection: 1.2
